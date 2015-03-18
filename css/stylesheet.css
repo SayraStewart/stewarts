@@ -1,0 +1,67 @@
+/*This is a stylesheet for stewartdash.html */
+
+
+.header {
+	height: auto;
+	width: 100%;
+	background-color: #778899; /*light slate gray*/
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+#header_text {
+	color: #000000;
+	font-size: 32px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100px;
+	padding: 20px;
+
+}
+
+.circle {
+	background-color: #6A5ACD; /*slate blue*/
+	border-radius: 100%;
+	height: 250px;
+	width: 250px; 
+	display: inline-block;
+	text-align: center;
+	margin: 10px 3px 3px 10px;
+}
+
+.text {
+	color: #000000; 
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+}
+
+.square {
+	background-color: #9ACD32; /*yellowgreen*/
+	height: 250px;
+	width: 250px;
+	display: inline-block;
+	text-align: center;
+	margin: 10px 3px 3px 5px 
+
+
+}
+
+body {
+	background-color: #FFFAFA; /*off white*/
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.data_title {
+	margin-top: 50px;
+	margin-right: 62.5px;
+	margin-left: 62.5px;
+}
+
+.data {
+	margin-top: 50px;
+	margin-right: 62.5px;
+	margin-bottom: 50px;
+	margin-left: 62.5px;
+}
